@@ -1,0 +1,101 @@
+sl_no,college_name,state,district,region,college_type,management,university,mbbs_seats,nirf_rank_2025,established_year,annual_fee_inr,neet_cutoff_air_general,hospital_beds,pg_seats
+1,All India Institute of Medical Sciences (AIIMS) New Delhi,Delhi,New Delhi,North,Central Govt,Central Govt,Autonomous,107,1,1956,1628,50,2478,246
+2,JIPMER Puducherry,Puducherry,Puducherry,South,Central Govt,Central Govt,Autonomous,150,4,1823,1390,1000,2650,191
+3,PGIMER Chandigarh,Chandigarh,Chandigarh,North,Central Govt,Central Govt,Autonomous,60,2,1962,3000,200,2190,520
+4,Christian Medical College Vellore,Tamil Nadu,Vellore,South,Private/Deemed,Private,Deemed University,100,3,1900,17000,500,2600,160
+5,Maulana Azad Medical College Delhi,Delhi,New Delhi,North,State Govt,State Govt,University of Delhi,250,5,1958,5400,2000,1690,230
+6,AIIMS Jodhpur,Rajasthan,Jodhpur,North,Central Govt,Central Govt,Autonomous,100,6,2012,1628,300,500,100
+7,Kasturba Medical College Manipal,Karnataka,Udupi,South,Private/Deemed,Private,Manipal Academy,250,7,1953,2100000,3000,2015,350
+8,Amrita Institute of Medical Sciences Coimbatore,Tamil Nadu,Coimbatore,South,Private/Deemed,Private,Amrita University,150,8,1998,1800000,4000,1150,200
+9,AIIMS Bhopal,Madhya Pradesh,Bhopal,Central,Central Govt,Central Govt,Autonomous,100,9,2012,1628,400,960,100
+10,Seth GS Medical College & KEM Hospital Mumbai,Maharashtra,Mumbai,West,State Govt,Municipal Corp,University of Mumbai,200,10,1926,30000,5000,1858,250
+11,Grant Medical College Mumbai,Maharashtra,Mumbai,West,State Govt,State Govt,Maharashtra University,200,11,1845,25000,6000,1500,210
+12,Bangalore Medical College,Karnataka,Bangalore,South,State Govt,State Govt,RGUHS,250,12,1955,14500,4500,2200,275
+13,Madras Medical College,Tamil Nadu,Chennai,South,State Govt,State Govt,Tamil Nadu Dr MGR,250,13,1835,10000,3500,2673,280
+14,AIIMS Rishikesh,Uttarakhand,Dehradun,North,Central Govt,Central Govt,Autonomous,100,15,2012,1628,350,960,100
+15,St Johns Medical College Bangalore,Karnataka,Bangalore,South,Private/Deemed,Trust,Autonomous,150,16,1963,550000,7000,1154,200
+16,King Georges Medical University Lucknow,Uttar Pradesh,Lucknow,North,State Govt,State Govt,State University,250,17,1905,24000,3000,3700,310
+17,Lady Hardinge Medical College Delhi,Delhi,New Delhi,North,Central Govt,Central Govt,University of Delhi,200,18,1916,5400,2500,1374,210
+18,Sri Ramachandra Institute Chennai,Tamil Nadu,Chennai,South,Private/Deemed,Private,Deemed University,150,19,1985,1600000,8000,685,240
+19,JN Medical College Belgaum,Karnataka,Belagavi,South,Private/Deemed,Trust,KLE University,200,20,1963,1200000,9000,1156,250
+20,Vardhman Mahavir Medical College Delhi,Delhi,New Delhi,North,Central Govt,Central Govt,University of Delhi,250,21,1954,5400,3000,1531,230
+21,Stanley Medical College Chennai,Tamil Nadu,Chennai,South,State Govt,State Govt,Tamil Nadu Dr MGR,250,22,1938,10000,5000,1491,260
+22,Institute of Medical Sciences BHU Varanasi,Uttar Pradesh,Varanasi,North,Central Govt,Central Govt,BHU,100,23,1960,5400,2800,1500,175
+23,Osmania Medical College Hyderabad,Telangana,Hyderabad,South,State Govt,State Govt,Osmania University,250,24,1846,14000,4000,1750,265
+24,Rangaraya Medical College Kakinada,Andhra Pradesh,Kakinada,South,State Govt,State Govt,NTR University,250,25,1958,12000,6000,1500,220
+25,Sri Venkateswara Medical College Tirupati,Andhra Pradesh,Tirupati,South,State Govt,State Govt,NTR University,150,26,1959,12000,5500,1200,170
+26,Government Medical College Kozhikode,Kerala,Kozhikode,South,State Govt,State Govt,University of Calicut,200,28,1957,8000,7000,1350,190
+27,Government Medical College Thrissur,Kerala,Thrissur,South,State Govt,State Govt,Kerala University,150,29,1981,8000,8000,900,150
+28,Nil Ratan Sircar Medical College Kolkata,West Bengal,Kolkata,East,State Govt,State Govt,West Bengal University,200,30,1873,20000,9000,1450,210
+29,Medical College Kolkata,West Bengal,Kolkata,East,State Govt,State Govt,West Bengal University,200,31,1835,20000,8000,1552,220
+30,BJ Medical College Ahmedabad,Gujarat,Ahmedabad,West,State Govt,State Govt,Gujarat University,200,32,1946,20000,5000,1800,230
+31,Smt NHL Municipal Medical College Ahmedabad,Gujarat,Ahmedabad,West,State Govt,Municipal Corp,Gujarat University,150,33,1963,15000,7000,1050,160
+32,Government Medical College Surat,Gujarat,Surat,West,State Govt,State Govt,Veer Narmad University,200,34,1964,15000,8000,1200,190
+33,SN Medical College Agra,Uttar Pradesh,Agra,North,State Govt,State Govt,Agra University,200,35,1854,18000,6000,1300,195
+34,Government Medical College Amritsar,Punjab,Amritsar,North,State Govt,State Govt,Baba Farid University,200,36,1864,15000,7000,1400,210
+35,Dayanand Medical College Ludhiana,Punjab,Ludhiana,North,Private/Deemed,Private,Deemed University,150,37,1997,800000,10000,750,180
+36,Government Medical College Chandigarh,Chandigarh,Chandigarh,North,State Govt,State Govt,Panjab University,200,38,1947,10000,6000,1200,200
+37,PGIMS Rohtak,Haryana,Rohtak,North,State Govt,State Govt,MDU,200,39,1960,18000,5500,1800,210
+38,AIIMS Bhubaneswar,Odisha,Bhubaneswar,East,Central Govt,Central Govt,Autonomous,100,40,2012,1628,500,960,100
+39,SCB Medical College Cuttack,Odisha,Cuttack,East,State Govt,State Govt,Utkal University,250,41,1944,15000,7000,2200,235
+40,Indira Gandhi Medical College Shimla,Himachal Pradesh,Shimla,North,State Govt,State Govt,HP University,150,42,1966,12000,8000,1000,150
+41,Gauhati Medical College,Assam,Guwahati,NE/Islands,State Govt,State Govt,Gauhati University,200,43,1960,12000,9000,1212,195
+42,Silchar Medical College,Assam,Silchar,NE/Islands,State Govt,State Govt,Assam University,100,44,1968,12000,12000,600,100
+43,AIIMS Patna,Bihar,Patna,East,Central Govt,Central Govt,Autonomous,100,45,2012,1628,600,960,100
+44,Patna Medical College,Bihar,Patna,East,State Govt,State Govt,PMCH,250,46,1925,15000,10000,1700,230
+45,Government Medical College Nagpur,Maharashtra,Nagpur,West,State Govt,State Govt,MUHS,200,47,1947,20000,8000,1500,205
+46,BJ Government Medical College Pune,Maharashtra,Pune,West,State Govt,State Govt,MUHS,200,48,1946,20000,7000,1397,210
+47,NKP Salve Institute Nagpur,Maharashtra,Nagpur,West,Private/Deemed,Trust,MUHS,150,49,1990,1300000,12000,700,175
+48,DY Patil Medical College Pune,Maharashtra,Pune,West,Private/Deemed,Private,DY Patil University,150,50,1996,2200000,15000,500,800
+49,JN Medical College AMU Aligarh,Uttar Pradesh,Aligarh,North,Central Govt,Central Govt,AMU,100,51,1962,5400,4000,940,140
+50,Government Medical College Kota,Rajasthan,Kota,North,State Govt,State Govt,Rajasthan University,200,52,1974,15000,9000,1100,190
+51,Sardar Patel Medical College Bikaner,Rajasthan,Bikaner,North,State Govt,State Govt,Rajasthan University,200,53,1953,15000,8000,1500,205
+52,SMS Medical College Jaipur,Rajasthan,Jaipur,North,State Govt,State Govt,Rajasthan University,250,54,1947,15000,6000,2200,255
+53,Government Medical College Thiruvananthapuram,Kerala,Thiruvananthapuram,South,State Govt,State Govt,Kerala University,200,55,1951,8000,6000,1500,210
+54,Mysore Medical College,Karnataka,Mysuru,South,State Govt,State Govt,University of Mysore,200,57,1924,12000,6500,1350,195
+55,Kempegowda Institute of Medical Sciences Bangalore,Karnataka,Bangalore,South,Private/Deemed,Trust,RGUHS,200,58,1980,1150000,11000,850,900
+56,Pt JNM Medical College Raipur,Chhattisgarh,Raipur,Central,State Govt,State Govt,Pt Ravishankar University,200,59,1963,15000,9000,1350,200
+57,Government Medical College Jagdalpur,Chhattisgarh,Bastar,Central,State Govt,State Govt,Pt Ravishankar University,100,60,2015,10000,14000,500,80
+58,Nalanda Medical College Patna,Bihar,Patna,East,State Govt,State Govt,PMCH,200,61,1970,15000,11000,1200,195
+59,MGM Medical College Indore,Madhya Pradesh,Indore,Central,State Govt,State Govt,DAVV,200,62,1948,18000,8000,1450,205
+60,Gandhi Medical College Bhopal,Madhya Pradesh,Bhopal,Central,State Govt,State Govt,BMHRC,250,63,1955,18000,7000,2100,250
+61,Gajra Raja Medical College Gwalior,Madhya Pradesh,Gwalior,Central,State Govt,State Govt,Jiwaji University,200,64,1946,18000,9000,1600,195
+62,Topiwala National Medical College Mumbai,Maharashtra,Mumbai,West,State Govt,Municipal Corp,University of Mumbai,150,65,1921,25000,9000,1450,175
+63,Government Medical College Karimnagar,Telangana,Karimnagar,South,State Govt,State Govt,Kaloji University,150,66,2014,14000,10000,500,130
+64,Government Medical College Anantapur,Andhra Pradesh,Anantapur,South,State Govt,State Govt,NTR University,150,68,1962,12000,9000,850,145
+65,Government Mohan Kumaramangalam Medical College Salem,Tamil Nadu,Salem,South,State Govt,State Govt,Tamil Nadu Dr MGR,200,69,1966,10000,8000,1200,210
+66,Coimbatore Medical College,Tamil Nadu,Coimbatore,South,State Govt,State Govt,Tamil Nadu Dr MGR,200,70,1966,10000,7500,1400,210
+67,Tirunelveli Medical College,Tamil Nadu,Tirunelveli,South,State Govt,State Govt,Tamil Nadu Dr MGR,200,71,1965,10000,8000,1200,205
+68,Calcutta National Medical College,West Bengal,Kolkata,East,State Govt,State Govt,West Bengal University,200,72,1948,20000,11000,1200,200
+69,Goa Medical College Panaji,Goa,Panaji,West,State Govt,State Govt,Goa University,200,74,1963,8000,7000,1300,195
+70,ESIC Medical College Hyderabad,Telangana,Hyderabad,South,Central Govt,ESIC,Kaloji University,150,75,2011,5000,6000,750,310
+71,ESIC Medical College Chennai,Tamil Nadu,Chennai,South,Central Govt,ESIC,Tamil Nadu Dr MGR,150,76,2012,5000,7000,750,280
+72,ESIC Medical College Faridabad,Haryana,Faridabad,North,Central Govt,ESIC,MDU,150,77,2012,5000,7500,750,265
+73,AIIMS Nagpur,Maharashtra,Nagpur,West,Central Govt,Central Govt,Autonomous,100,78,2018,1628,550,750,80
+74,AIIMS Raipur,Chhattisgarh,Raipur,Central,Central Govt,Central Govt,Autonomous,100,79,2012,1628,480,960,100
+75,AIIMS Kalyani,West Bengal,Nadia,East,Central Govt,Central Govt,Autonomous,100,80,2019,1628,520,500,80
+76,AIIMS Mangalagiri,Andhra Pradesh,Guntur,South,Central Govt,Central Govt,Autonomous,100,81,2020,1628,560,500,80
+77,University College of Medical Sciences Delhi,Delhi,New Delhi,North,State Govt,State Govt,University of Delhi,150,83,1971,5400,3000,1000,165
+78,Armed Forces Medical College Pune,Maharashtra,Pune,West,Central Govt,Defence Ministry,Deemed University,130,84,1948,11000,200,1800,130
+79,Kasturba Medical College Mangalore,Karnataka,Mangaluru,South,Private/Deemed,Private,Manipal Academy,200,86,1955,2100000,5000,1914,290
+80,Father Muller Medical College Mangalore,Karnataka,Mangaluru,South,Private/Deemed,Trust,RGUHS,150,87,1880,900000,13000,640,756
+81,Sree Balaji Medical College Chennai,Tamil Nadu,Chennai,South,Private/Deemed,Trust,Bharath University,150,88,1999,1500000,16000,550,450
+82,Saveetha Medical College Chennai,Tamil Nadu,Chennai,South,Private/Deemed,Private,Saveetha University,150,89,2008,1800000,17000,500,600
+83,SRM Medical College Chennai,Tamil Nadu,Chennai,South,Private/Deemed,Private,SRM University,150,90,2002,1700000,15000,750,500
+84,Government Medical College Haldwani,Uttarakhand,Nainital,North,State Govt,State Govt,Hemwati Nandan University,200,91,2009,15000,10000,750,180
+85,Himalayan Institute of Medical Sciences Dehradun,Uttarakhand,Dehradun,North,Private/Deemed,Trust,Swami Rama University,150,92,1996,1300000,15000,700,700
+86,Shyam Shah Medical College Rewa,Madhya Pradesh,Rewa,Central,State Govt,State Govt,APS University,200,93,1962,18000,10000,1300,195
+87,Rajendra Institute of Medical Sciences Ranchi,Jharkhand,Ranchi,East,State Govt,State Govt,Jharkhand Government,250,96,1960,15000,11000,1500,230
+88,AIIMS Deoghar,Jharkhand,Deoghar,East,Central Govt,Central Govt,Autonomous,100,97,2023,1628,700,250,50
+89,RIMS Imphal,Manipur,Imphal,NE/Islands,State Govt,State Govt,Manipur University,100,98,1972,10000,13000,600,100
+90,NEIGRIHMS Shillong,Meghalaya,Shillong,NE/Islands,Central Govt,Central Govt,Autonomous,100,99,1976,5000,12000,500,120
+91,Agartala Government Medical College,Tripura,Agartala,NE/Islands,State Govt,State Govt,Tripura University,100,100,1969,10000,14000,500,95
+92,Government Medical College Thiruvananthapuram 2,Kerala,Thiruvananthapuram,South,State Govt,State Govt,Kerala University,200,55,1951,8000,6500,1500,210
+93,Amala Institute of Medical Sciences Thrissur,Kerala,Thrissur,South,Private/Deemed,Trust,Calicut University,100,56,1988,900000,13000,460,120
+94,Pt Bhagwat Dayal Sharma PGIMS,Haryana,Rohtak,North,State Govt,State Govt,MDU,200,39,1960,18000,5500,1800,210
+95,AIIMS Bibinagar,Telangana,Hyderabad,South,Central Govt,Central Govt,Autonomous,100,82,2021,1628,580,500,80
+96,AIIMS Gorakhpur,Uttar Pradesh,Gorakhpur,North,Central Govt,Central Govt,Autonomous,100,85,2019,1628,450,500,80
+97,AIIMS Rajkot,Gujarat,Rajkot,West,Central Govt,Central Govt,Autonomous,100,86,2023,1628,520,250,50
+98,Government Medical College Barmer,Rajasthan,Barmer,North,State Govt,State Govt,Rajasthan University,100,0,2018,12000,15000,300,80
+99,Vinayaka Missions Medical College Salem,Tamil Nadu,Salem,South,Private/Deemed,Private,Vinayaka Missions University,150,0,1997,1400000,18000,480,600
+100,Mahatma Gandhi Mission Medical College Navi Mumbai,Maharashtra,Navi Mumbai,West,Private/Deemed,Trust,MGM University,150,0,1990,1500000,13000,600,650
