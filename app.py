@@ -22,21 +22,55 @@ st.set_page_config(
 st.markdown("""
 <style>
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;600;700&family=Space+Grotesk:wght@700;900&display=swap');
-html, body, [class*="css"] { font-family: 'DM Sans', sans-serif; }
-h1,h2,h3 { font-family: 'Space Grotesk', sans-serif; }
+
+html, body, [class*="css"] {
+    font-family: 'DM Sans', sans-serif;
+}
+
+h1,h2,h3 {
+    font-family: 'Space Grotesk', sans-serif;
+}
 
 [data-testid="metric-container"] {
     background: linear-gradient(135deg,#0f1629,#0d1a3a);
-    border:1px solid #1e2d4a; border-radius:14px; padding:16px 20px;
+    border:1px solid #1e2d4a;
+    border-radius:14px;
+    padding:16px 20px;
 }
-[data-testid="stMetricValue"]  { color:#00d4ff; font-weight:900; font-size:1.9rem; }
-[data-testid="stMetricLabel"]  { color:#e8f4fd; font-weight:600; }
-[data-testid="stSidebar"]      { background:#0f1629; border-right:1px solid #1e2d4a; }
-.stTabs [data-baseweb="tab"]   { color:#6b8fa8; font-weight:600; }
-.stTabs [aria-selected="true"] { color:#00d4ff !important; border-bottom-color:#00d4ff !important; }
+
+[data-testid="stMetricValue"]  {
+    color:#00d4ff;
+    font-weight:900;
+    font-size:1.9rem;
+}
+
+[data-testid="stMetricLabel"]  {
+    color:#e8f4fd;
+    font-weight:600;
+}
+
+/* SIDEBAR */
+[data-testid="stSidebar"] {
+    background: linear-gradient(180deg, #f8fbff 0%, #eef5ff 100%);
+    border-right: 1px solid #d6e4ff;
+}
+
+/* SIDEBAR TEXT */
+section[data-testid="stSidebar"] * {
+    color: #10243e !important;
+}
+
+.stTabs [data-baseweb="tab"] {
+    color:#6b8fa8;
+    font-weight:600;
+}
+
+.stTabs [aria-selected="true"] {
+    color:#00d4ff !important;
+    border-bottom-color:#00d4ff !important;
+}
 </style>
 """, unsafe_allow_html=True)
-
 COLORS = {
     "Central Govt": "#00d4ff",
     "State Govt":   "#00ff9d",
