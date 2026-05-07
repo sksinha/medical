@@ -13,7 +13,7 @@ from pathlib import Path
 
 # ── Config ────────────────────────────────────────────────────────────────────
 st.set_page_config(
-    page_title="India Medical College Dashboard",
+    page_title="India Medical Colleges",
     page_icon="🏥",
     layout="wide",
     initial_sidebar_state="expanded",
