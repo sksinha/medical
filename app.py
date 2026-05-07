@@ -399,8 +399,8 @@ with t5:
     fig_dual.add_trace(
         go.Bar(x=growth_df["year"], y=growth_df["colleges"],
                name="Total Colleges",
-               marker_color="#ff6b3555",
-               marker_line_color="#ff6b35", marker_line_width=1.5),
+               marker_color="rgba(255,107,53,0.35)",
+               marker_line_color="rgba(255,107,53,1)", marker_line_width=1.5),
         secondary_y=True)
     fig_dual.update_layout(
         paper_bgcolor="rgba(0,0,0,0)", plot_bgcolor="rgba(0,0,0,0)",
